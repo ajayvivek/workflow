@@ -1,19 +1,40 @@
 All the code the company needes
 
-<<<<<<< HEAD
+
 feature1()
 {
 
+   feature1 code
 
-
-}
-=======
+}
 feature2()
 
 {
 
 
-  feature 2 code
+  feature2 code
 
 }
->>>>>>> feature2
+
+<<<<<<< HEAD
+feature3()
+
+{
+
+
+  new code not in relaese1
+
+}
+
+
+=======
+
+security patch()
+
+{
+
+  hotflix code
+
+}
+
+>>>>>>> master
