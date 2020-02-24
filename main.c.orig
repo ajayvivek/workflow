@@ -1,0 +1,19 @@
+All the code the company needes
+
+<<<<<<< HEAD
+feature1()
+{
+
+
+
+}
+=======
+feature2()
+
+{
+
+
+  feature 2 code
+
+}
+>>>>>>> feature2
