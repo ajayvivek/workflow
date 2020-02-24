@@ -1,1 +1,8 @@
-All the code the company needes:
+All the code the company needes
+
+feature1()
+{
+
+
+
+}
