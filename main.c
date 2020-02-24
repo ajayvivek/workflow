@@ -16,3 +16,12 @@ feature2()
 
 }
 
+
+security patch()
+
+{
+
+  hotflix code
+
+}
+
